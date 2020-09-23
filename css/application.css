@@ -1,0 +1,10 @@
+.page-header {
+    padding-bottom: 50px;
+}
+
+#crud-usuario td, #crud-usuario th {
+	text-align: center;
+}
+.header {
+    text-align: center;
+    }
